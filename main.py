@@ -14,3 +14,5 @@ for x in range(10,41):
   nome_irmao = input("Seu nome:")
   print(nome_irmao, "o número é", x)
 print("\n")
+
+print("Cod terminado <3")
